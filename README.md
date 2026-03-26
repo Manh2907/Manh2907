@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Hoàng Mạnh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Automation+Lover;Linux+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Infrastructure+Engineer;Automation+Lover;Linux+Enthusiast" />
 </p>
 
 <p align="center">
