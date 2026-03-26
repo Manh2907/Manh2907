@@ -1,31 +1,70 @@
-![Typing](https://readme-typing-svg.herokuapp.com/?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Hoang+Manh;System+Engineer;Automation+%26+Infrastructure+Lover)
-# 👋 Hi, I'm Hoàng Mạnh
+<h1 align="center">👋 Hi, I'm Hoàng Mạnh</h1>
 
-💻 DevOps / System Engineer  
-🚀 Passionate about Automation & Infrastructure  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Automation+Lover;Linux+Enthusiast" />
+</p>
+
+<p align="center">
+💻 DevOps / System Engineer <br>
+🚀 Passionate about Automation & Infrastructure
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Working on DevOps & Monitoring Systems  
+- 🌱 Currently learning: Kubernetes, CI/CD  
+- ⚙️ Love building automation tools  
+- ⚡ Fun fact: I automate everything I can 😄  
 
 ---
 
 ## 🛠 Tech Stack
-![Linux](https://img.shields.io/badge/-Linux-black)
-![Shell](https://img.shields.io/badge/-Shell-green)
-![Ansible](https://img.shields.io/badge/-Ansible-red)
-![Docker](https://img.shields.io/badge/-Docker-blue)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,ansible,git" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
-- 🔧 Monitoring System (Telegram Alert)
-- ⚙️ System Tools Automation
+
+- 🔧 [Monitoring System](https://github.com/Manh2907/isoisoi)  
+  → Monitor system & send alerts via Telegram  
+
+- ⚙️ [System Tools](https://github.com/Manh2907/sys_tools)  
+  → Automation scripts for system tasks  
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Manh2907&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manh2907&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manh2907&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manh2907&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manh2907&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Manh2907/Manh2907/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 📫 Contact
-- Email: manhmtv1@gmail.com
+
+- 📧 Email: manhmtv1@gmail.com
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
