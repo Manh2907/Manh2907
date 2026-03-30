@@ -13,8 +13,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Working on DevOps & Monitoring Systems  
-- 🌱 Currently learning: Kubernetes, CI/CD  
+- 🔭 Working on Script & Monitoring Systems  
+- 🌱 Currently learning: Docker, CI/CD  
 - ⚙️ Love building automation tools  
 - ⚡ Fun fact: I automate everything I can 😄  
 
