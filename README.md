@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-💻 DevOps / System Engineer <br>
+💻 System Engineer <br>
 🚀 Passionate about Automation & Infrastructure
 </p>
 
